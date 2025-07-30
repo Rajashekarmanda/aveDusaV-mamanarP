@@ -1,0 +1,5 @@
+* first create package.json file using "npm init -y"
+* Install express using "npm i express"
+* create a entry file which is "server.js (or) index.js"
+* user node version is "node = 20 "
+* to run on terminal use command "npm run dev"
